@@ -3,6 +3,15 @@
 Find your snowboard gear anywhere anytime.
 <br>
 
+🏠Home
+![Home](/app/assets/images/Snoared_home.png "Home")
+
+🏂List
+![List](/app/assets/images/Snoared_index.png "Index")
+
+📝Booking
+![Booking](/app/assets/images/Snoared_show.png "Show")
+
 <br>
 App home: https://snoard.herokuapp.com/
 
